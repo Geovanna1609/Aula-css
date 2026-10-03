@@ -1,0 +1,65 @@
+/* .texto {
+    color: blue;
+}
+
+#oi-som{
+    color: rgb(127, 255, 212);
+}
+
+h1{
+    color: #0d1fa7;
+} */
+/* @import url('https://fonts.googleapis.com/css2?family=Playwrite+CA+Guides&display=swap');
+
+#titulo{
+    color: #E11A45;
+    font-size: 42px;
+    text-align: center;
+    
+}
+
+#paragrafo{
+    color: #425B9A;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    text-align:justify;
+    line-height: 30px;
+    }
+
+body{
+    background-color: chocolate;
+}
+
+*{
+    font-family: "Playwrite CA Guides", cursive;
+
+    } */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    font-family: "Inter", sans-serif;
+}
+
+#guia-eleitor{
+    color: rgb(84,84,84);
+    font-size: 16px;
+    font-weight: 500;
+}
+#titulo{
+    color: #FF0000;
+    font-size: 36px;
+}
+#rodape{
+    color: #606060;
+    font-size: 12px;
+}
+#container{
+    height: 35vh;
+    width: 40vw;
+    
+}
